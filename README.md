@@ -40,12 +40,13 @@
 <br>
 <p><b>7ª</b> Depois é só clicar na última opção <b>Upload</b> para carregar os arquivos no bucket.</p>
 
-<br>
+<br>son
 <p><b>8ª</b> Agora retorne para a pagina inicial das configurações do seu bucket e clique na aba <b>Permissions.</b></p>
 <img height="400" width="715" src="/src/print/5.s3.png">
 
 <br>
 <p><b>9ª</b> Descendo a pagina encontre a opção <b>Bucket policy</b> e clique em <b>Edit.</b> No campo de <b>Policy</b> copie e cole o codígo JSON abaixo: </p>
-<p><a href="https://github.com/abimaellsilva/aws-s3-site-estatico/blob/main/policy-s3.json">Clique aqui para abrir arquivo JSON</p>
+<p><a href="https://github.com/abimaellsilva/aws-s3-site-estatico/blob/main/policy-s3.json">Clique aqui para abrir arquivo JSON</a></p>
 
-
+<p>OBS: No codigo na linha <b>"Resource": "arn:aws:s3:::nome-do-seu-bucket/*"</b> colocar o nome do seu bucket no caso o meu ficou assim <b>"Resource": "arn:aws:s3:::tutorial-site-s3/*"</b></p>
+<img height="490" width="630" src="/src/print/6.s3.png">
