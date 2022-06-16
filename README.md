@@ -11,4 +11,4 @@
 <br>
 <p><b>1ª</b> Na aba de pesquisa na parte de cima procure por s3 e clique na primeira opção da pesquisa</p>
 
-<img height="150" width="250" src="/src/print/1.s3.png">
+<img height="250" width="750" src="/src/print/1.s3.png">
