@@ -11,11 +11,11 @@
 <br>
 
 <p><b>1ª</b> Na aba de pesquisa na parte de cima procure por s3 e clique na primeira opção da pesquisa</p>
-<img height="250" width="750" src="/src/print/1.s3.png">
+<img height="250" width="700" src="/src/print/1.s3.png">
 
 <br>
 <p><b>2ª</b> Na coluna à esquerda clique na opção <b>Buckets</b> e no lado direito clique na opção <b>Create bucket.</b></p>
-<img height="250" width="750" src="/src/print/2.s3.png">
+<img height="250" width="700" src="/src/print/2.s3.png">
 
 <br>
 <p><b>3ª</b> Na nova pagina aberta você irá seguir a sequência abaixo:</p>
@@ -28,7 +28,7 @@
 
 <br>
 <p><b>4ª</b> Será criado seu bucket e estará na aba <b>Buckets</b>, no meu caso criei um bucket com o nome tutorial-site-s3.</p>
-<img height="450" width="850" src="/src/print/3.s3.png">
+<img height="450" width="800" src="/src/print/3.s3.png">
 
 <br>
 <p><b>5ª</b> Clique no seu bucket para acessar as configurações disponíveis. Na aba já aberta <b>Objects</b> é onde você irá carregar os arquivos do site, para carregar basta clicar em <b>Upload.</b></p>
@@ -42,7 +42,7 @@
 
 <br>son
 <p><b>8ª</b> Agora retorne para a pagina inicial das configurações do seu bucket e clique na aba <b>Permissions.</b></p>
-<img height="400" width="715" src="/src/print/5.s3.png">
+<img height="400" width="650" src="/src/print/5.s3.png">
 
 <br>
 <p><b>9ª</b> Descendo a pagina encontre a opção <b>Bucket policy</b> e clique em <b>Edit.</b> No campo de <b>Policy</b> copie e cole o codígo JSON abaixo: </p>
