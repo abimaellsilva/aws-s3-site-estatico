@@ -15,7 +15,7 @@
 
 <br>
 <p><b>2ª</b> Na coluna à esquerda clique na opção <b>Buckets</b> e no lado direito clique na opção <b>Create bucket.</b></p>
-<img height="350" width="750" src="/src/print/2.s3.png">
+<img height="300" width="800" src="/src/print/2.s3.png">
 
 <br>
 <p><b>3ª</b> Na nova pagina aberta você irá seguir a sequência abaixo:</p>
