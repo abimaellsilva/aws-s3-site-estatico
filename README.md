@@ -35,7 +35,7 @@
 
 <br>
 <p><b>6ª</b> Em upload você pode simplesmente arrastar os arquivos e soltar na pagina ou se preferir selecionar a pasta com os arquivos no Computador clique em <b>Add files</b> para arquivos soltos ou em <b>Add folder</b> para enviar todos os arquivos dentro uma pasta selecionada.</p>
-<img height="500" width="700" src="/src/print/3.s3.png">
+<img height="500" width="700" src="/src/print/4.s3.png">
 
 
 
