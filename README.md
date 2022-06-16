@@ -56,7 +56,7 @@
 
 <br>
 <p><b>10ª</b>Agora nas aba de cima clique em <b>Properties.</b></p>
-<img height="490" width="630" src="/src/print/7.s3.png">
+<img height="420" width="630" src="/src/print/7.s3.png">
 <p>Encontre a opção <b>Static website hosting</b> e clique em <b>Edit.</b></p>
 
 <br>
@@ -72,6 +72,6 @@
 <br>
 <p><b>12ª</b> Ainda na Aba Properties em <b>Static website hosting</b> na última opção foi criado um link para acesso ao seu site estático. O meu link ficou assim: http://tutorial-site-s3.s3-website-us-east-1.amazonaws.com.</p>
 <p>Para acessar seu site basta clicar no seu link criado.</p>
-
+<img height="350" width="830" src="/src/print/8.s3.png">
 <p>Pronto! Seu site está online agora.</p>
 
