@@ -10,18 +10,18 @@
 <p>Começarei acessando o serviço S3 dentro da AWS por isso já crie sua conta lá que é bem simples.</p>
 <br>
 
-<p><b>1ª</b> Na aba de pesquisa na parte de cima procure por s3 e clique na primeira opção da pesquisa</p>
+<p><b>1ª</b> Na aba de pesquisa na parte de cima procure por s3 e clique na primeira opção da pesquisa.</p>
 <img height="250" width="700" src="/src/print/1.s3.png">
 
 <br>
 <p><b>2ª</b> Na coluna à esquerda clique na opção <b>Buckets</b> e no lado direito clique na opção <b>Create bucket.</b></p>
-<img height="250" width="700" src="/src/print/2.s3.png">
+<img height="350" width="750" src="/src/print/2.s3.png">
 
 <br>
 <p><b>3ª</b> Na nova pagina aberta você irá seguir a sequência abaixo:</p>
 <ol>
     <li><b>Bucket name:</b> Insira o nome do seu bucket ex: meu-bucket-novo. obs:<em> O nome do bucket deve ser exclusivo e não deve conter espaços ou letras maiúsculas.</em></li>
-    <li><b>AWS region:</b> Pode deixa a opção ja selecionada</li>
+    <li><b>AWS region:</b> Pode deixa a opção ja selecionada.</li>
     <li><b>Block Public Access settings for this bucket:</b> Nessa aba terá a opção <b>Block all public access</b> marcada, desmarque essa opção para seu bucket se tornar público, isso é necessário para funcionar o site estático. E marque a opção abaixo na mesma sequência com a decrição <b>"I acknowledge that the current..."</b> para confimar que o bucket será publico.</li>
     <li>Depois só ir na ultima opção da página e clicar em <b>Create bucket.</b></li>
 </ol>
@@ -35,7 +35,7 @@
 
 <br>
 <p><b>6ª</b> Em upload você pode simplesmente arrastar os arquivos e soltar na pagina ou se preferir selecionar a pasta com os arquivos no Computador clique em <b>Add files</b> para arquivos soltos ou em <b>Add folder</b> para enviar a pasta com todos os arquivos dentro.</p>
-<p>OBS: Deixar o arquivo index.html na raiz do seu bucket, isso evitará problemas quando o link para acessar o site for criado.</p>
+<p>OBS: Deixar o arquivo index.html na pasta raiz do seu bucket, isso evitará problemas quando o link para acessar o site for criado.</p>
 <img height="500" width="700" src="/src/print/4.s3.png">
 
 <br>
