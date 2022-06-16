@@ -56,7 +56,7 @@
 
 <br>
 <p><b>10ª</b>Agora nas aba de cima clique em <b>Properties.</b></p>
-<img height="420" width="630" src="/src/print/7.s3.png">
+<img height="420" width="730" src="/src/print/7.s3.png">
 <p>Encontre a opção <b>Static website hosting</b> e clique em <b>Edit.</b></p>
 
 <br>
