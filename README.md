@@ -1,4 +1,4 @@
-<h1>[TUTORIAL] hospedando um site estático no aws s3 de forma gratuita</h1>
+<h1>[TUTORIAL] hospedando um site estático usando o s3 na AWS de forma gratuita 🌩🖥</h1>
 <h2>[RESQUISITOS]</h2>
 
 <ol>
@@ -73,5 +73,5 @@
 <p><b>12ª</b> Ainda na Aba Properties em <b>Static website hosting</b> na última opção em <b>Bucket website endpoint</b> foi criado um link para acesso ao seu site estático.</p>
 <p>Para acessar seu site basta clicar no link criado.</p>
 <img height="350" width="830" src="/src/print/8.s3.png">
-<p>Pronto! Seu site está online agora.</p>
+<p>Pronto! Seu site está online agora. ✅</p>
 
