@@ -28,5 +28,14 @@
 
 <br>
 <p><b>4ª</b> Será criado seu bucket e estará na aba <b>Buckets</b>, no meu caso criei um bucket com o nome tutorial-site-s3.</p>
-<img height="400" width="750" src="/src/print/3.s3.png">
+<img height="350" width="850" src="/src/print/3.s3.png">
+
+<br>
+<p><b>5ª</b> Clique no seu bucket para acessar as configurações disponíveis. Na aba já aberta <b>Objects</b> é onde você irá carregar os arquivos do site, para carregar basta clicar em <b>Upload.</b></p>
+
+<br>
+<p><b>6ª</b> Em upload você pode simplesmente arrastar os arquivos e soltar na pagina ou se preferir selecionar a pasta com os arquivos no Computador clique em <b>Add files</b> para arquivos soltos ou em <b>Add folder</b> para enviar todos os arquivos dentro uma pasta selecionada.</p>
+<img height="500" width="700" src="/src/print/3.s3.png">
+
+
 
