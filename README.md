@@ -42,23 +42,10 @@
 
 <br>
 <p><b>8ª</b> Agora retorne para a pagina inicial das configurações do seu bucket e clique na aba <b>Permissions.</b></p>
-<img height="380" width="715" src="/src/print/5.s3.png">
+<img height="400" width="715" src="/src/print/5.s3.png">
 
 <br>
 <p><b>9ª</b> Descendo a pagina encontre a opção <b>Bucket policy</b> e clique em <b>Edit.</b> No campo de <b>Policy</b> copie e cole o codígo JSON abaixo: </p>
-<p>
-{<br>
-&emsp;"Version": "2012-10-17", <br>
-&emsp;"Statement": [<br>
-&emsp;&emsp;{<br>
-&emsp;&emsp;&emsp;"Sid": "PublicReadGetObject",<br>
-&emsp;&emsp;&emsp;"Effect": "Allow",<br>
-&emsp;&emsp;&emsp;"Principal": "*",<br>
-&emsp;&emsp;&emsp;"Action": "s3:GetObject",<br>
-&emsp;&emsp;&emsp;"Resource": "arn:aws:s3:::projetosites/*"<br>
-&emsp;&emsp;}<br>
-&emsp;]<br>
-}<br>
-</p>
+<p><a href="./policy-s3.json">Abrir arquivo JSON</p>
 
 
