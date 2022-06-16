@@ -46,6 +46,6 @@
 
 <br>
 <p><b>9ª</b> Descendo a pagina encontre a opção <b>Bucket policy</b> e clique em <b>Edit.</b> No campo de <b>Policy</b> copie e cole o codígo JSON abaixo: </p>
-<p><a href="./policy-s3.json">Abrir arquivo JSON</p>
+<p><a href="https://github.com/abimaellsilva/aws-s3-site-estatico/blob/main/policy-s3.json">Clique aqui para abrir arquivo JSON</p>
 
 
