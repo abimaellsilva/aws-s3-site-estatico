@@ -70,8 +70,8 @@
 </ol>
 
 <br>
-<p><b>12ª</b> Ainda na Aba Properties em <b>Static website hosting</b> na última opção foi criado um link para acesso ao seu site estático. O meu link ficou assim: http://tutorial-site-s3.s3-website-us-east-1.amazonaws.com.</p>
-<p>Para acessar seu site basta clicar no seu link criado.</p>
+<p><b>12ª</b> Ainda na Aba Properties em <b>Static website hosting</b> na última opção em <b>Bucket website endpoint</b> foi criado um link para acesso ao seu site estático.</p>
+<p>Para acessar seu site basta clicar no link criado.</p>
 <img height="350" width="830" src="/src/print/8.s3.png">
 <p>Pronto! Seu site está online agora.</p>
 
